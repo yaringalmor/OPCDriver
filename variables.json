@@ -1,0 +1,46 @@
+[
+    {
+        "name": "@DiagnosticsIndicatorTag",
+        "value": 0
+    },
+    {
+        "name": "T_Bool_01",
+        "value": true
+    },
+    {
+        "name": "T_Bool_02",
+        "value": true
+    },
+    {
+        "name": "T_Bool_03",
+        "value": true
+    },
+    {
+        "name": "T_Int_01",
+        "value": 262
+    },
+    {
+        "name": "T_Int_02",
+        "value": 201
+    },
+    {
+        "name": "T_Int_03",
+        "value": -264
+    },
+    {
+        "name": "T_Real_01",
+        "value": 32.438777923583984
+    },
+    {
+        "name": "T_Real_02",
+        "value": 100.84552001953125
+    },
+    {
+        "name": "T_Real_03",
+        "value": 49.28569793701172
+    },
+    {
+        "name": "Tag_ScreenNumber",
+        "value": 1
+    }
+]
